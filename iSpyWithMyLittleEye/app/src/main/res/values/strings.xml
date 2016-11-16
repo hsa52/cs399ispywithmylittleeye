@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">iSpyWithMyLittleEye</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <string name="chooseDevice">Choose a Device</string>
+
+    <string-array name="device_array">
+        <item>Web Cam</item>
+        <item>Game Console</item>
+        <item>Security Camera</item>
+    </string-array>
+    <string name="title_activity_addingadevice">addingadevice</string>
+    <string name="long_lorem" />
+
+</resources>
